@@ -1,4 +1,4 @@
--   🚀 Hello, I'm Pavitra Desai! 👩‍💻
+-   🚀**Hello, I'm Pavitra Desai!** 👩‍💻
 
     🔍**Data Enthusiast | Problem Solver | Sql Ninja | Ml Explorer**
   
