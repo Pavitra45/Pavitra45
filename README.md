@@ -1,6 +1,6 @@
-- # 🚀 Hey there, I'm Pavitra Desai! 👩‍💻  
+- # 🚀 Hello, I'm Pavitra Desai! 👩‍💻  
 🔹 Data Enthusiast | Problem Solver | Sql Ninja | Ml Explorer
-# 🌟 About Me  
+
 I am a **Data Alchemist**, transforming raw numbers into golden insights. Currently, I'm diving deep into **Data Analytics** through a **Post Graduation Certification at Imarticus Learning**—where I wield Python, SQL, and Machine Learning to decode the language of data.  
 
 📊 I believe **data is a story waiting to be told**, and I love crafting compelling narratives through visualization and predictive modeling.  
