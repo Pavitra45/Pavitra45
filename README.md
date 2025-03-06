@@ -36,9 +36,9 @@ I am a **Data Analyst**, transforming raw numbers into golden insights. Currentl
    **To turn data into powerful insights, build intelligent solutions, and make an impact in the world of analytics!**  
 
  🌍 Let's Connect!  
-   🔗 **GitHub:** [GitHub Profile](https://github.com/Pavitra45)  
-   💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/pavitra-desai-4bb1b82a7)  
-   📩 **Email:** (pavitradesai2003@gmail.com)
+   🔗 **GitHub**  
+   💼 **LinkedIn**
+   📩 **Email**
 
    ✨ **Transforming Data, One Insight at a Time!** 🚀  
 
