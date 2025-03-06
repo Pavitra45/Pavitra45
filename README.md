@@ -42,7 +42,6 @@ I am a **Data Analyst**, transforming raw numbers into golden insights. Currentl
 
    ✨ **Transforming Data, One Insight at a Time!** 🚀  
 
-- 
 
 
 
@@ -59,6 +58,5 @@ I am a **Data Analyst**, transforming raw numbers into golden insights. Currentl
 
 
 
-Pavitra45/Pavitra45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
