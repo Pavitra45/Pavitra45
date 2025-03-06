@@ -17,7 +17,8 @@ I am a **Data Analyst**, transforming raw numbers into golden insights. Currentl
   
    📌**Travel Planner** ✈️ – Built an **intelligent system for seamless travel planning**.
    📌 **SQL Data Analysis** 🗂️ – Analyzed large datasets to extract **actionable insights**.  
-   📌 **Laptop Price Prediction** 💻 – Built a **Machine Learning model** to predict laptop prices based on various specifications like processor, RAM, storage, and brand. Used **Python, Scikit-Learn, Pandas, and Matplotlib** for data analysis and model training.  
+   📌 **Laptop Price Prediction** 💻 – Built a **Machine Learning model** to predict laptop prices based on various specifications like 
+       processor, RAM, storage, and brand. Used **Python, Scikit-Learn, Pandas, and Matplotlib** for data analysis and model training.  
 
 💻 Skills & Tech Stack  
   🔹 **Programming:** Python 🐍 | SQL 🗄️ 
