@@ -38,6 +38,7 @@ I am a **Data Analyst**, transforming raw numbers into golden insights. Currentl
  🌍 Let's Connect!  
    🔗 **GitHub**  
    💼 **LinkedIn**
+   
    📩 **Email**
 
    ✨ **Transforming Data, One Insight at a Time!** 🚀  
